@@ -18,6 +18,9 @@
     <link rel="stylesheet" href="styles.css"/>
   </head>
   <body>
+    <?php
+    echo ("hello");
+    ?>
     <h1>html tutorials for beginners</h1>
   </body>
 </html>
